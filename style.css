@@ -1,0 +1,19 @@
+body {
+   margin: 0%;
+   padding: 0%;
+   background-color: white;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#button {
+    padding: 10%;
+    border-radius: 9%;
+    border-color: darkcyan;
+    background-color: cornflowerblue;
+}
